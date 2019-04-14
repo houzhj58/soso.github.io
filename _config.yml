@@ -16,7 +16,7 @@
 title: SoSo的博客
 description: > # this means to ignore newlines until "baseurl:"
   Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
-baseurl: ""
+baseurl: "https://soso.github.io"
 url: "https://soso.github.io"
 permalink: /:year/:month/:day/:title
 repository: soso/soso.github.io
